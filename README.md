@@ -2,6 +2,8 @@
 
 A high-fidelity C++ implementation of a 2D Navier-Stokes solver developed for the **Mec645: Finite Element Method in Fluid Mechanics** course at Cairo University, Faculty of Engineering. This solver utilizes the **Galerkin/Least-Squares (GLS)** stabilization technique to simulate unsteady, incompressible rotational flows.
 
+![Simulation Results](Results/Picture1.png)
+
 ## Project Scope
 
 This solver addresses the primary computational fluid dynamics (CFD) benchmark:
